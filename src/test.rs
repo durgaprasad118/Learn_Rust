@@ -1,5 +1,7 @@
 
+//This is actually in main.rs
 fn main() {
+
 
     // let x :i32 = 32;
     // let y : u32 = 100;
@@ -39,6 +41,7 @@ fn main() {
 
 }
 //
+//This is fucntion to check a number given is even or odd
 // fn  is_even(num:i32) ->bool{
 //     return num%2==0;
 // }
