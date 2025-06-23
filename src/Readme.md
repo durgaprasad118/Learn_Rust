@@ -21,11 +21,10 @@
   - array(fixed size)
 
 - Heap
+
   - Used to store data that can grow at runtime, such as strings and vectors
   - For strings suppose we have a string "hello" the address to the first byte is stored in stack memory and the value is stored in heap memory. (we point from stack to heap)
   -
-
-![image](/Users/dp/Documents/Screenshots/Screenshot\ 2025-06-23\ at\ 12.23.03 AM.png)
 
 - cargo build = rust program => binary (COMPILATION)
 - ./target/debug/program = actually running binary code (RUNTIME)
