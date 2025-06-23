@@ -47,6 +47,7 @@ fn main() {
 // }
 //
 //
+// The sum function which adds two numebrs
 // fn sum (a:i32,b:i32)->i32{
 //
 //     return a+b;
